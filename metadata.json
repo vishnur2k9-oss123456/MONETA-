@@ -1,0 +1,6 @@
+{
+  "name": "SIH26184 — Cybercrime Predictive Analytics",
+  "description": "Intelligent Cybercrime Predictive Analytics Framework to Forecast Likely Cash Withdrawal Locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
